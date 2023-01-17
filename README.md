@@ -1,7 +1,5 @@
 크롬 익스텐션, 새 탭 만들 시 개인화된 탭을 제공합니다.
 
--------
-
 1. 기상 정보 제공 기능
    - api: [https://www.data.go.kr/iim/api/selectAPIAcountView.do](https://www.data.go.kr/iim/api/selectAPIAcountView.do)
    - 안산시 기상 정보 제공
