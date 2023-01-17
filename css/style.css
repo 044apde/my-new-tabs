@@ -2,13 +2,13 @@
 
 @font-face {
     font-family: 'Bebas Neue';
-    src: url('/fonts/BebasNeue-Regular.ttf') format('truetype');
+    src: url('fonts/BebasNeue-Regular.ttf') format('truetype');
 
 }
 
 @font-face {
     font-family: 'Nanum Myeongjo';
-    src: url('/fonts/NanumMyeongjo-Regular.ttf') format('serif');
+    src: url('fonts/NanumMyeongjo-Regular.ttf') format('serif');
 }
 
 * {
@@ -211,6 +211,6 @@ div {
     background-color: black;
     position: relative;
     z-index: 0;
-    background-image: url('/img/1.jpeg');
+    background-image: url('img/1.jpeg');
     background-size: cover;
 }
