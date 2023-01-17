@@ -1,16 +1,5 @@
 @charset "UTF-8";
 
-@font-face {
-    font-family: 'Bebas Neue';
-    src: url('fonts/BebasNeue-Regular.ttf') format('truetype');
-
-}
-
-@font-face {
-    font-family: 'Nanum Myeongjo';
-    src: url('fonts/NanumMyeongjo-Regular.ttf') format('serif');
-}
-
 * {
     margin: 0px;
     padding: 0px;
