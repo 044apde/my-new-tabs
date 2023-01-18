@@ -13,6 +13,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+  <link rel="shortcut icon" href="./icons/K.png">
   <link rel="stylesheet" href="css/style.css" />
   <title>KKSHIN044</title>
 </head>
@@ -65,9 +66,8 @@
       <div class="audio">
         <div class="songInfo">
           <div class="songImage"></div>
-          <div class="singer"></div>
         </div>
-        <audio src="./audio/그땐미처몰랐지.mp4" controls loop></audio>
+        <audio id="ipod" src="./audio/그땐미처몰랐지.mp4" controls loop></audio>
         <div class="buttons">
           <div class="button">
             <div class="buttonChar"><span class="material-symbols-outlined">
@@ -75,7 +75,9 @@
               </span></div>
             <div class="buttonChar2">
               <div id="up">menu</div>
-              <div id="center"></div>
+              <div id="center">
+                <div id="ccenter"> </div>
+              </div>
               <div id="down"><span class="material-symbols-outlined">
                   skip_next
                 </span></div>
@@ -86,7 +88,14 @@
           </div>
         </div>
       </div>
-
+      <div class="songTitle">
+        <p>
+          "그땐 미처 알지 못했지"
+        </p>
+        <p>
+          이적
+        </p>
+      </div>
     </div>
     <div class="footer">
       <div id="downArrow">
@@ -132,7 +141,7 @@
     </div>
     <div class="link">
       <a href="matilto:044apde@gmail.com'" target='_blank'>
-        <span>gmail - @044apde</span>
+        <span>gmail - 044apde@gmail.com</span>
       </a>
     </div>
   </div>
