@@ -1,4 +1,4 @@
-0. 날씨, 해의 위치를 알 수 있는 커스텀 크롬 탭 제공 <a href="https://044apde.github.io/my-new-tabs/" target='_blank' >preview</a>
+0. 날씨, 해의 위치를 알 수 있는 커스텀 크롬 탭 <a href="https://044apde.github.io/my-new-tabs/" target='_blank' >미리보기</a>
 
 1. 기상 정보 제공 기능
 
