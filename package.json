@@ -1,0 +1,31 @@
+{
+  "name": "mynewtab",
+  "version": "1.0.0",
+  "description": "0. 크롬 익스텐션, 새 탭 만들 시 개인화한 탭을 제공합니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/044apde/my-new-tabs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/044apde/my-new-tabs/issues"
+  },
+  "homepage": "https://github.com/044apde/my-new-tabs#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.9",
+    "date-fns": "^2.21.1",
+    "date-fns-tz": "^1.1.4",
+    "exceljs": "^4.3.0",
+    "express": "^4.18.2",
+    "lodash": "^4.17.20",
+    "puppeteer": "^9.1.1",
+    "xlsx": "^0.18.5"
+  },
+  "keywords": []
+}

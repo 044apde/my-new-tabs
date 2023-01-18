@@ -12,6 +12,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css" />
   <title>KKSHIN044</title>
 </head>
@@ -19,7 +20,7 @@
 <body>
   <div class="nightVision"></div>
   <div class="background"></div>
-  <div class="container1">
+  <div class="container0">
     <div class="topBar">
       <div class="weather">
         <span>안산시</span>
@@ -52,11 +53,56 @@
     </div>
   </div>
 
+  <div class="container1">
+    <div class="header">
+      <div id="upArrow">
+        <span class="material-symbols-outlined">
+          arrow_drop_up
+        </span>
+      </div>
+    </div>
+    <div class="body">
+      <div class="audio">
+        <div class="songInfo">
+          <div class="songImage"></div>
+          <div class="singer"></div>
+        </div>
+        <audio src="./audio/그땐미처몰랐지.mp4" controls loop></audio>
+        <div class="buttons">
+          <div class="button">
+            <div class="buttonChar"><span class="material-symbols-outlined">
+                fast_rewind
+              </span></div>
+            <div class="buttonChar2">
+              <div id="up">menu</div>
+              <div id="center"></div>
+              <div id="down"><span class="material-symbols-outlined">
+                  skip_next
+                </span></div>
+            </div>
+            <div class="buttonChar"><span class="material-symbols-outlined">
+                play_arrow
+              </span></div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <div class="footer">
+      <div id="downArrow">
+        <span class="material-symbols-outlined"> arrow_drop_down </span>
+        </a>
+      </div>
+    </div>
+  </div>
+
   <div class="container2">
     <div id="upArrow">
       <span class="material-symbols-outlined">
         arrow_drop_up
       </span>
+    </div>
+    <div class="picture">
     </div>
     <div class="link" style="font-size: 32px;">
       <p>[Kimshin]</p>
@@ -85,7 +131,7 @@
       </a>
     </div>
     <div class="link">
-      <a href="matilto:hey.044apde@gmail.com'" target='_blank'>
+      <a href="matilto:044apde@gmail.com'" target='_blank'>
         <span>gmail - @044apde</span>
       </a>
     </div>
@@ -97,6 +143,7 @@
   <script src="js/auotoMove.js"></script>
   <script src="js/timeAndOpacity.js"></script>
   <script src="js/refresh.js"></script>
+
 </body>
 
 </html>
