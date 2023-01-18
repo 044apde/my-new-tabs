@@ -1,4 +1,4 @@
-0. 크롬 익스텐션, 새 탭 만들 시 개인화한 탭을 제공합니다. <a href="https://044apde.github.io/my-new-tabs/" target='_blank' >preview</a>
+0. 날씨, 해의 위치를 알 수 있는 커스텀 크롬 탭 제공 <a href="https://044apde.github.io/my-new-tabs/" target='_blank' >preview</a>
 
 1. 기상 정보 제공 기능
 
