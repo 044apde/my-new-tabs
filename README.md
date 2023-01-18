@@ -1,4 +1,4 @@
-0. 크롬 익스텐션, 새 탭 만들 시 개인화한 탭을 제공합니다. <a href="https://044apde.github.io/my-new-tabs/" target='_blank'>preview</a>
+0. 크롬 익스텐션, 새 탭 만들 시 개인화한 탭을 제공합니다. <a href="https://044apde.github.io/my-new-tabs/">preview</a>
 
 1. 기상 정보 제공 기능
 
