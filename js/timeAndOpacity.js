@@ -2,7 +2,7 @@ let hours = new Date().getHours();
 
 const background = document.querySelector(".background");
 if (hours < 6) {
-  background.style.opacity = 0.8;
+  background.style.opacity = 0.7;
 } else if (hours < 7) {
   background.style.opacity = 0.6;
 } else if (hours < 8) {
@@ -19,4 +19,6 @@ if (hours < 6) {
   background.style.opacity = 0.4;
 } else if (hours < 21) {
   background.style.opacity = 0.7;
+} else {
+  background.style.opacity = 0.8;
 }
